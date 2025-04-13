@@ -1,0 +1,17 @@
+ <!CliqDOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Sisi Daniel</title>
+  <style>
+    body { background: #111; color: #fff; font-family: sans-serif; text-align: center; padding: 50px; }
+    .bubble { background: #fff; color: #000; display: inline-block; padding: 20px; border-radius: 20px; max-width: 500px; }
+  </style>
+</head>
+<body>
+  <h1>Sisi Daniel - L'IA qui répond avec du style</h1>
+  <div class="bubble">
+    Pose-moi une question la mif... bientôt je réponds avec sagesse & street cred.
+  </div>
+</body>
+</html>
